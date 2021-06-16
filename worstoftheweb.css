@@ -105,7 +105,6 @@ main p{
 
 
 
-
 .fixed-footer {
     display: flex;
     justify-content: center;
@@ -131,7 +130,8 @@ main p{
 
 .fixed-footer a:link{
     text-decoration: none;
-    color: hsl(0 0% 100%);}
+    color: hsl(0 0% 100%);
+}
 
 
 .fixed-footer a:hover{
@@ -143,7 +143,7 @@ main p{
 
 .fixed-footer a:visited{
     text-decoration: none;
-    color: #0a090a}
+    color: #0a090a;
 
 }
 
