@@ -1,21 +1,149 @@
 *{
-
     margin:0;
-    padding:0;
+    padding:0px;
     box-sizing: border-box;
+    font-family: Prompt;
+
 }
 
 
 
 body{
-
     background-color: rgb(89, 126, 89);
 
 }
 
-.main{
-    width: 50%;
 
+nav{
+
+    display: flex;
+    justify-content:flex-end;
+    align-items: baseline;
+    font-size:18px;
+    line-height:21.6px;
+    margin:5px 0px 14px;
+    padding:15px 70px 68.9px;
+
+}
+
+nav a{
+
+    font-family: 'Prompt', sans-serif;
+    color: rgba(201, 190, 190, 0.38);
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+nav a:link{
+    color: #eceeec;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color:#0a3706;
+    text-decoration: underline solid 4px;
+
+}
+
+nav a:active{
+    color: #0b0b0b;
+    text-decoration: none;
+
+}
+
+nav a:visited{
+    color: #dde3dd;
+    text-decoration: none;
+
+}
+
+
+
+.main h1 {
+
+    font-family: 'Prompt', sans-serif;
+    color: hsl(0 0% 100%);
+    font-size: 110px;
+    line-height: 85px;
+    margin-left: 40px;
+}
+
+
+main p{
+
+    margin:20px;
+    padding:
+    font-size: 12px;
 
 
 }
+
+
+
+.definition{
+    margin-left:50px;
+    margin-top: 12px;
+    font-family: Prompt;
+    font-size: 20px;
+    color: #0c0c0c;
+}
+
+
+.definition span{
+    font-size: 20px;
+    text-align: center;
+}
+
+.definition ol{
+    line-height: 27.6px;
+    font-size: 16px;
+    margin:12px;
+}
+
+
+
+
+
+.fixed-footer {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    position:fixed;
+    background-color: rgba(226, 213, 213, 0.35);
+    font-size:12px ;
+    font-family: Prompt;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+
+}
+
+.fixed-footer a{
+    font-family: Prompt;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+.fixed-footer a:link{
+    text-decoration: none;
+    color: hsl(0 0% 100%);}
+
+
+.fixed-footer a:hover{
+    color: #000000;
+    text-decoration: underline solid 4px;
+
+}
+
+
+.fixed-footer a:visited{
+    text-decoration: none;
+    color: #0a090a}
+
+}
+
