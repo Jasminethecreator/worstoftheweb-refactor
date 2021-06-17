@@ -19,16 +19,15 @@ nav{
     display: flex;
     justify-content:flex-end;
     align-items: baseline;
-    font-size:18px;
-    line-height:21.6px;
-    margin:5px 0px 14px;
-    padding:15px 70px 68.9px;
+    font-size:16px;
+    padding:16px 40px;
+
 
 }
 
 nav a{
 
-    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
     color: rgba(201, 190, 190, 0.38);
     margin: 5px;
     padding: 5px;
@@ -64,19 +63,28 @@ nav a:visited{
 .main h1 {
 
     font-family: 'Prompt', sans-serif;
-    color: hsl(0 0% 100%);
-    font-size: 110px;
-    line-height: 85px;
+    color:#eceeec;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 55px;
     margin-left: 40px;
+    margin-top: 28px;
+
+}
+.disclaimer{
+    margin:40px;
+    padding: 20px;
+    font-size:10px;
+    font-weight:300;
+    line-height: 27px;
+    width: 70%;
+
+
 }
 
 
-main p{
-
-    margin:20px;
-    padding:
-    font-size: 12px;
-
+.disclaimer span{
+    font-weight: 400;
 
 }
 
@@ -84,8 +92,7 @@ main p{
 
 .definition{
     margin-left:50px;
-    margin-top: 12px;
-    font-family: Prompt;
+    margin-top: 30px;
     font-size: 20px;
     color: #0c0c0c;
 }
@@ -104,7 +111,6 @@ main p{
 
 
 
-
 .fixed-footer {
     display: flex;
     justify-content: center;
@@ -116,6 +122,7 @@ main p{
     left: 0;
     bottom: 0;
     width: 100%;
+    border-top:solid 1px #151414;
 
 
 }
@@ -128,11 +135,9 @@ main p{
 
 }
 
-.fixed-footer a:link{
+.fixed-footer a:link {
     text-decoration: none;
-    color: hsl(0 0% 100%);
 }
-
 
 .fixed-footer a:hover{
     color: #000000;
