@@ -13,7 +13,7 @@ body {
 
 }
 
-//nagivgation  section
+/*nagivgation section*/
 nav {
 
     display: flex;
@@ -55,9 +55,9 @@ nav a:visited {
     text-decoration: none;
 }
 
-//end of nagivgation section
+/*end of nagivgation section */
 
-//main header titile 
+/*main header title */ 
 
 .main h1 {
     color:#eceeec;
@@ -68,7 +68,7 @@ nav a:visited {
     margin-top: 28px;
 }
 
-//defination section
+/*defination section*/
 
 .definition {
     margin-left:50px;
@@ -89,7 +89,7 @@ nav a:visited {
     margin:12px;
 }
 
-//end of defination section
+/*end of defination section*/
 
 
 //disclaimer section
@@ -110,9 +110,9 @@ nav a:visited {
 
 }
 
-//end of disclaimer section
+/* end of disclaimer section/*
 
-//footer section
+/*footer section*/
 
 .fixed-footer {
     display: flex;
@@ -153,4 +153,4 @@ nav a:visited {
 
 }
 
-//end of footer section
+/*end of footer section*/
