@@ -8,13 +8,13 @@
 
 
 
-body{
-    background-color: rgb(89, 126, 89);
+body {
+    background-color: #597e59;
 
 }
 
-
-nav{
+//nagivgation  section
+nav {
 
     display: flex;
     justify-content:flex-end;
@@ -22,113 +22,113 @@ nav{
     font-size:16px;
     padding:16px 40px;
 
-
 }
 
-nav a{
+nav a {
 
-    font-weight: 500;
+    font-weight: 300;
     color: rgba(201, 190, 190, 0.38);
     margin: 5px;
     padding: 5px;
     text-decoration: none;
-
 }
 
-nav a:link{
+nav a:link {
     color: #eceeec;
     text-decoration: none;
 }
 
-nav a:hover{
+nav a:hover {
     color:#0a3706;
-    text-decoration: underline solid 4px;
-
+    text-decoration: underline solid 4px;\
 }
 
-nav a:active{
-    color: #0b0b0b;
+nav a:active {
+    color: #0a0a0a;
     text-decoration: none;
 
 }
 
-nav a:visited{
-    color: #dde3dd;
+nav a:visited {
+    color: #eceeec;
     text-decoration: none;
-
 }
 
+//end of nagivgation section
 
+//main header titile 
 
 .main h1 {
-
-    font-family: 'Prompt', sans-serif;
     color:#eceeec;
     font-size: 90px;
-    font-weight: 700;
-    line-height: 55px;
+    font-weight:600;
+    line-height: 1.4;
     margin-left: 40px;
     margin-top: 28px;
-
-}
-.disclaimer{
-    margin:40px;
-    padding: 20px;
-    font-size:10px;
-    font-weight:300;
-    line-height: 27px;
-    width: 70%;
-
-
 }
 
+//defination section
 
-.disclaimer span{
-    font-weight: 400;
-
-}
-
-
-
-.definition{
+.definition {
     margin-left:50px;
     margin-top: 30px;
     font-size: 20px;
-    color: #0c0c0c;
+    color: #0a0a0a;
 }
 
 
-.definition span{
+.definition span {
     font-size: 20px;
     text-align: center;
 }
 
-.definition ol{
+.definition ol {
     line-height: 27.6px;
     font-size: 16px;
     margin:12px;
 }
 
+//end of defination section
 
+
+//disclaimer section
+
+.disclaimer span {
+ font-weight: 400;
+
+}
+
+
+.disclaimer {
+    margin:40px;
+    padding: 20px;
+    font-size:10px;
+    font-weight:300;
+    line-height: 27px;
+    width: 60%;
+
+}
+
+//end of disclaimer section
+
+//footer section
 
 .fixed-footer {
     display: flex;
     justify-content: center;
     align-items: baseline;
     position:fixed;
-    background-color: rgba(226, 213, 213, 0.35);
+    background-color: #e2d5d559;
     font-size:12px ;
-    font-family: Prompt;
     left: 0;
     bottom: 0;
     width: 100%;
-    border-top:solid 1px #151414;
-
+    border-top:solid 1px #0a0a0a;
 
 }
 
-.fixed-footer a{
-    font-family: Prompt;
+
+.fixed-footer a {
     margin: 5px;
     padding: 5px;
     text-decoration: none;
@@ -140,7 +140,7 @@ nav a:visited{
 }
 
 .fixed-footer a:hover{
-    color: #000000;
+    color: #0a0a0a;
     text-decoration: underline solid 4px;
 
 }
@@ -148,7 +148,8 @@ nav a:visited{
 
 .fixed-footer a:visited{
     text-decoration: none;
-    color: #0a090a;
+    color: #0a0a0a;
 
 }
 
+//end of footer section
