@@ -70,6 +70,13 @@ nav a:visited {
 
 /*defination section*/
 
+.definition span {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
 .definition {
     margin-left:50px;
     margin-top: 30px;
@@ -78,10 +85,6 @@ nav a:visited {
 }
 
 
-.definition span {
-    font-size: 20px;
-    text-align: center;
-}
 
 .definition ol {
     line-height: 27.6px;
@@ -92,10 +95,10 @@ nav a:visited {
 /*end of defination section*/
 
 
-//disclaimer section
+/*disclaimer section*/
 
 .disclaimer span {
- font-weight: 400;
+ font-weight: 600;
 
 }
 
