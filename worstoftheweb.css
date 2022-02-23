@@ -27,7 +27,7 @@ nav {
 nav a {
 
     font-weight: 300;
-    color: rgba(201, 190, 190, 0.38);
+    color: #e2d5d559;
     margin: 5px;
     padding: 5px;
     text-decoration: none;
@@ -38,9 +38,10 @@ nav a:link {
     text-decoration: none;
 }
 
+
 nav a:hover {
     color:#0a3706;
-    text-decoration: underline solid 4px;\
+    text-decoration: underline solid 4px;
 }
 
 nav a:active {
