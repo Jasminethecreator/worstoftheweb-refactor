@@ -1,7 +1,7 @@
 
 
 
-![Worst of the Worst](./assets/wofthew.jpg?raw=true)
+![Worst of the Worst](wofthew.jpg?raw=true)
 
 [View Live Site](https://worstoftheweb-refactor.vercel.app/)
 ## **Overview**
