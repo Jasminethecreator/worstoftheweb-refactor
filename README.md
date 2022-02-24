@@ -19,22 +19,23 @@ A layout refactor of www.worstoftheweb.com
 
 
 ## **Tech Stack**
- HTML, CSS
+* HTML
+* CSS
 
 
 ## **Implentation**
 
-flex box
+* flex box
 
-line height
+* line height
 
-weight font
+* weight font
 
-text alignment
+* text alignment
 
-box model
+* box model
 
-typography: Prompt , font weights of 300, 600
+* typography: Prompt , font weights of 300, 600
 
 
  
