@@ -1,7 +1,40 @@
-## Worst of the web
 
-## For the type font I chooses a font family that had atleast 5 weight types, I went with "Prompt" I use the font weigh of 200 300, 500, 700 Since the website on the about page had a lot of text content, I broke the paragraphs in to sections adding line height, left alignment, padding and margins and grid layouts for spacing and placenent. I made sure that the paragraphs have spacing and legible.I use 5 color in total, greens  netural colors like black, white, and tan.
 
-## I made all my links "bold" using a heavier font weight of 300-700, I wanted to keep the paragraphs text consistent without using colored links. I also adding css propeties to add ;hover a color or underline on so it could look like it it clickable.
 
-## I use 5 color in total, green and netural colors like black, white, and tan.
+![Worst of the Worst](./assets/wofthew.jpg?raw=true)
+
+[View Live Site](https://worstoftheweb-refactor.vercel.app/)
+## **Overview**
+A layout refactor of www.worstoftheweb.com
+
+
+## **Tech Stack**
+ HTML, CSS
+
+
+## **Implentation**
+
+flex box
+
+line height
+
+weight font
+
+text alignment
+
+box model
+
+
+### **Typography**
+Font: Prompt , font weights of 300, 600
+
+
+ ## **Design Tools**
+ Figma
+
+
+ 
+
+
+
+
