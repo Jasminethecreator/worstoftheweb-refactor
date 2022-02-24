@@ -11,9 +11,11 @@ A layout refactor of www.worstoftheweb.com
 
 
  ## **Design Tools**
+ Figma
+ 
  ![low fidelity wireframe](worstofthewebwireframe.png?raw=true)
 
- Figma
+ 
 
 
 ## **Tech Stack**
