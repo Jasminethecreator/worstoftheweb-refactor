@@ -8,6 +8,14 @@
 A layout refactor of www.worstoftheweb.com
 
 
+
+
+ ## **Design Tools**
+ ![low fidelity wireframe](worstofthewebwireframe.png?raw=true)
+
+ Figma
+
+
 ## **Tech Stack**
  HTML, CSS
 
@@ -27,10 +35,6 @@ box model
 
 ### **Typography**
 Font: Prompt , font weights of 300, 600
-
-
- ## **Design Tools**
- Figma
 
 
  
