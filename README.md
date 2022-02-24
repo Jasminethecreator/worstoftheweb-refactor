@@ -34,9 +34,7 @@ text alignment
 
 box model
 
-
-### **Typography**
-Font: Prompt , font weights of 300, 600
+typography: Prompt , font weights of 300, 600
 
 
  
