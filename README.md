@@ -3,7 +3,9 @@
 
 ![Worst of the Worst](wofthew.jpg?raw=true)
 
-[View Live Site](https://worstoftheweb-refactor.vercel.app/)
+## [View Live Site](https://worstoftheweb-refactor.vercel.app/)
+
+
 ## **Overview**
 A layout refactor of www.worstoftheweb.com
 
@@ -17,13 +19,12 @@ A layout refactor of www.worstoftheweb.com
 
  
 
-
 ## **Tech Stack**
 * HTML
 * CSS
 
 
-## **Implentation**
+## **Implementation**
 
 * flex box
 
